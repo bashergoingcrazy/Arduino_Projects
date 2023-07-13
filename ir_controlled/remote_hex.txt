@@ -1,0 +1,18 @@
+80BF3BC4 == power
+80BFBB44 == volume up
+80BF31CE == volume down
+80BF49B6 == number 1
+80BFC936 == number 2
+80BF33CC == number 3
+80BF19E6 == channel up
+80BFE916 == channel down
+80BF53AC == upwards
+80BF4BB4 == downwards
+
+
+
+
+
+
+
+
